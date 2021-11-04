@@ -1,0 +1,14 @@
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Basic Calculator\Basic Calculator\bin\Debug\netcoreapp3.1\Basic Calculator.exe
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Basic Calculator\Basic Calculator\bin\Debug\netcoreapp3.1\Basic Calculator.deps.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Basic Calculator\Basic Calculator\bin\Debug\netcoreapp3.1\Basic Calculator.runtimeconfig.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Basic Calculator\Basic Calculator\bin\Debug\netcoreapp3.1\Basic Calculator.runtimeconfig.dev.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Basic Calculator\Basic Calculator\bin\Debug\netcoreapp3.1\Basic Calculator.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Basic Calculator\Basic Calculator\bin\Debug\netcoreapp3.1\Basic Calculator.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp3.1\Basic Calculator.csproj.AssemblyReference.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp3.1\Basic Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp3.1\Basic Calculator.AssemblyInfoInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp3.1\Basic Calculator.AssemblyInfo.cs
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp3.1\Basic Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp3.1\Basic Calculator.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp3.1\Basic Calculator.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp3.1\Basic Calculator.genruntimeconfig.cache
